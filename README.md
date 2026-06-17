@@ -49,8 +49,8 @@ Currently, I'm focused on improving my Full Stack Development skills and creatin
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
+- GitHub: https://github.com/Khemrajsaud
+- LinkedIn: https://www.linkedin.com/in/khemraj-saud-76777822a/
+- Portfolio: https://www.youtube.com/@MrksCode-h8g
 
 Thanks for visiting my profile! 😊
